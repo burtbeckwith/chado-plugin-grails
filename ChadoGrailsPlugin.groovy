@@ -8,4 +8,6 @@ class ChadoGrailsPlugin {
     def documentation = "http://grails.org/plugin/chado"
     def license = "APACHE"
     def organization = [name: "Apollo", url: "http://genomearchitect.org"]
+    def issueManagement = [url: 'https://github.com/GMOD/chado-plugin-grails/issues']
+    def scm = [url: 'https://github.com/GMOD/chado-plugin-grails']
 }
